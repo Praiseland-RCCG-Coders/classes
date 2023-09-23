@@ -1,0 +1,203 @@
+body {
+    margin: 0px; 
+  }
+
+ 
+  
+  div#header-container {
+      background-color: #252586;
+  }
+  
+  div#header2-container {
+      background-color: black;
+      padding-bottom: 20px;
+  }
+  
+  header {
+      
+      width: 80%;
+      margin:auto;
+      padding-top:25px ;
+  }
+  
+  header a {
+      text-decoration: none;
+      color: white;
+  }
+  
+  header a:hover {
+      text-decoration: underline;
+  }
+  
+  ul {
+      list-style-type: none;
+      margin:0px;
+  }
+  
+  header li {
+      display: inline-block;
+      margin:10px;
+      font-size:20px;
+  }
+  
+  div#header-container  nav {
+      float: right;
+      margin-top:20px;
+  }
+
+  div#hero-bg {
+    width: 100%;
+    height:600px;
+    background-image: url(main_image.jpg);
+    background-size: cover;
+  }
+
+  div#hero-container{
+    width: 80%;
+    margin: auto;
+    padding-top: 400px;
+  }
+
+  div#text-container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 40px;
+    
+  }
+
+  div#text-container p {
+    text-align: left;
+    font-size: 20px;
+    color:rgb(80, 78, 78);
+
+  }
+
+  div#text-container h4 {
+    font-size:38px;
+    color:rgb(129, 90, 161);
+    font-weight: 300;
+   
+  }
+
+  div#text-container a{
+    padding:12px 50px 12px 50px;
+    border: 2px solid rgb(129, 90, 161);
+    text-decoration: none;
+    color:rgb(129, 90, 161);
+    text-transform: uppercase;
+    font-weight: bold;
+    display: inline-block;
+  }
+
+  div#text-container div {
+    margin-top: 20px;
+  }
+
+  div#text-container a:hover {
+    color:white;
+    background-color: rgb(129, 90, 161);
+  }
+
+  div#house-point {
+    background-color: aliceblue;
+    padding-top:40px ;
+   
+  }
+
+  div#house-point-content {
+ 
+   width: 80%;
+   margin: auto;
+  }
+
+  div#house-point h4, div#house-point h2 {
+    text-align: center;
+    margin: 0px;
+   
+  }
+
+ 
+  div#house-point-content > h4 {
+    font-size: 15px;
+    color: rgb(129, 90, 161);
+    text-transform: uppercase;
+  }
+
+
+  div#house-point-content > h2 {
+    font-size: 36px;
+    color: rgb(129, 90, 161);
+    font-weight: 200;
+  }
+
+#red {
+  background-color: #eb6060;
+}
+
+#blue {
+  background-color: #66c6e9;
+}
+
+#green {
+  background-color: #4ecc7b;
+}
+#yellow {
+  background-color: #e2cc53;
+}
+
+.boxes {
+  color: white;
+  display: inline-block;
+  width: 285px;
+  height: 285px;
+  font-size:32px;
+  margin-left: -4px;
+  padding-top: 50px;
+}
+
+.boxes h4 {
+  font-weight: 100;
+}
+
+div#color-holder {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #252586;
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+div#footer-container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  gap: 20px;
+}
+
+footer ul {
+  padding-left:0px;
+ 
+}
+
+div#first-div {
+  width: 40%;
+}
+
+div#first-div p {
+  margin:0px;
+}
+
+div#second-div {
+  width: 30%;
+}
+
+
+
+  
+
+
+  
